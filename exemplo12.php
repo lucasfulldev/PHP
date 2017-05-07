@@ -1,18 +1,18 @@
 <html>
 <head>
-<title></title>
+<title>exemplo12</title>
 </head>
 <body>
 <?php
 function msn(){
-$msn="Olá Bem Vindo as Funções de PHP";
+$msn="OlÃ¡ Bem Vindo as FunÃ§Ãµes de PHP";
  echo"<h2> $msn</h2>";
  }
  function imprimir($texto){
  echo"<h3>$texto</h3>";
  }
  msn();
- imprimir("testando função");
+ imprimir("testando funÃ§Ã£o");
  
 ?>
 
